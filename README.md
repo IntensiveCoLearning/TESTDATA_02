@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# TESTDATA 02
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2025-09-07
+- Registration End Date: 2025-09-14
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2025-09-15
+- Study End Date: 2025-10-06
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: Muxin
+- GitHub ID: muxin-web3
+- Telegram: muxin_eth
+- Email: muxin333333@gmail.com
 
 ## Organizations
 
