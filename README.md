@@ -67,8 +67,9 @@ more information！！！！
 <!-- START_COMMIT_TABLE -->
 | Name | 9.15 | 9.16 | 9.17 | 9.18 | 9.19 | 9.20 | 9.21 | 9.22 | 9.23 | 9.24 | 9.25 | 9.26 | 9.27 | 9.28 | 9.29 | 9.30 | 10.01 | 10.02 | 10.03 | 10.04 | 10.05 | 10.06 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_02/blob/main/SIGNUP_AUTOMATION.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/TESTDATA_02/blob/main/SIGNUP_AUTOMATION.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
